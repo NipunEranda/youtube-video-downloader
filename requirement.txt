@@ -1,0 +1,4 @@
+pillow==11.1.0
+pytubefix==8.12.1
+tk==0.1.0
+urllib3==2.3.0
